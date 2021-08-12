@@ -1,0 +1,7 @@
+package com.example.it.model;
+
+public class Message {
+
+	private String type;
+	private String message;
+}

@@ -1,0 +1,5 @@
+package com.example.it.service;
+
+public interface IStudentService {
+
+}

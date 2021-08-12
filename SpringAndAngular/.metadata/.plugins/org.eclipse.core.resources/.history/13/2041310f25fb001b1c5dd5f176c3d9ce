@@ -1,0 +1,41 @@
+package com.example.it.service.impl;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.example.it.model.Student;
+import com.example.it.service.IStudentService;
+
+public class StudentServiceImpl implements IStudentService {
+
+	@Override
+	public Integer saveStudent(Student s) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Student> getAllStudents() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Optional<Student> getOneStudent(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isExist(Integer id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void deleteStudent(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.example.it.controller.rest;
+
+public class StudentRestController {
+
+}
